@@ -2,8 +2,9 @@
 
 [![npm version](https://img.shields.io/npm/v/gogocode.svg)](https://www.npmjs.com/package/gogocode) [![license](https://img.shields.io/npm/l/gogocode.svg)](LICENSE) 
 
-
+dnfjgit 
 ## What is GoGoCode?
+wojiajdkj kkdj 
 
 [中文 README](README-cn.md)
 
